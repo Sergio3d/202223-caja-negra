@@ -1,6 +1,6 @@
 # Verificación y Validación del Software 2022
 
-GRUPO IWx-4x ``<- Modificar``
+GRUPO IWM-41 ``<- Modificar``
 
 ## Instrucciones para utilizar este proyecto
 
@@ -10,3 +10,5 @@ GRUPO IWx-4x ``<- Modificar``
 * Crear directorios ``src/main/java/com/practica/cajanegra`` y ``src/test/java/com/practica/cajanegra``
 * Seguir las indicaciones del enunciado para añadir las dependencias necesarias para empezar a realizar las pruebas
 * Modificar este fichero añadiendo el número de grupo correspondiente y las instrucciones para ejecutar la práctica
+
+Creamos las clases de test -> test/java/JunitTest.java
